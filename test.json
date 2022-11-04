@@ -23,25 +23,25 @@
              {
                 "BallotName":"Elaine G. Luria",
                 "BallotOrder":1,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "EarlyVotes":2,
+                "MailedAbsenteeVotes":4,
+                "PostElectionVotes":6,
                 "PoliticalParty":"Democratic"
              },
              {
                 "BallotName":"Jen A. Kiggans",
-                "BallotOrder":2,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "BallotOrder":3,
+                "EarlyVotes":3,
+                "MailedAbsenteeVotes":5,
+                "PostElectionVotes":7,
                 "PoliticalParty":"Republican"
              },
              {
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "EarlyVotes":1,
+                "MailedAbsenteeVotes":1,
+                "PostElectionVotes":1,
                 "PoliticalParty":"Write-In"
              }
           ]
@@ -52,9 +52,9 @@
              {
                 "BallotName":"Elaine G. Luria",
                 "BallotOrder":1,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+     "EarlyVotes":2,
+                "MailedAbsenteeVotes":4,
+                "PostElectionVotes":6,
                 "PoliticalParty":"Democratic"
              },
              {
@@ -81,9 +81,9 @@
              {
                 "BallotName":"Elaine G. Luria",
                 "BallotOrder":1,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                   "EarlyVotes":2,
+                "MailedAbsenteeVotes":4,
+                "PostElectionVotes":6,
                 "PoliticalParty":"Democratic"
              },
              {
