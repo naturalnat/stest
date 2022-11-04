@@ -176,7 +176,7 @@
              {
                 "BallotName":"Jen A. Kiggans",
                 "BallotOrder":2,
-                "EarlyVotes":0,
+                "EarlyVotes":3,
                 "MailedAbsenteeVotes":0,
                 "PostElectionVotes":0,
                 "PoliticalParty":"Republican"
@@ -205,7 +205,7 @@
              {
                 "BallotName":"Jen A. Kiggans",
                 "BallotOrder":2,
-                "EarlyVotes":0,
+                "EarlyVotes": "t3st",
                 "MailedAbsenteeVotes":0,
                 "PostElectionVotes":0,
                 "PoliticalParty":"Republican"
@@ -256,7 +256,7 @@
                 "BallotName":"Elaine G. Luria",
                 "BallotOrder":1,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
+                "MailedAbsenteeVotes":"toad",
                 "PostElectionVotes":0,
                 "PoliticalParty":"Democratic"
              },
@@ -302,7 +302,7 @@
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
                 "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "PostElectionVotes":"weh",
                 "PoliticalParty":"Write-In"
              }
           ]
