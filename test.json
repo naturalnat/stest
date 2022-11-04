@@ -1,0 +1,485 @@
+{
+    "ElectionName":"2022 November General",
+    "ElectionDate":"2022-11-08T00:00:00",
+    "CreateDate":"2022-11-03T22:09:47.1043998-04:00",
+    "Locality":{
+       "LocalityName":"ACCOMACK COUNTY",
+       "LocalityCode":"001"
+    },
+    "District":null,
+    "RaceName":"Member House of Representatives (02)",
+    "ResultsProgress":{
+       "EarlyVoting":"NotStarted",
+       "ElectionDay":"NotStarted",
+       "MailedAbsentee":"NotStarted",
+       "Provisional":"NotStarted",
+       "PostElection":"NotStarted"
+    },
+    "NumberOfSeats":1,
+    "Precincts":[
+       {
+          "PrecinctName":"101 - CHINCOTEAGUE (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"201 - ATLANTIC (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"202 - GREENBACKVILLE (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"301 - NEW CHURCH (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"401 - BLOXOM (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"402 - PARKSLEY (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"403 - SAXIS (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"501 - MAPPSVILLE (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"502 - RUE (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"601 - ACCOMAC (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"602 - TANGIER (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"701 - NANDUA (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"801 - BOBTOWN (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"802 - MELFA (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"803 - WACHAPREAGUE (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       },
+       {
+          "PrecinctName":"901 - PAINTER (02)",
+          "Candidates":[
+             {
+                "BallotName":"Elaine G. Luria",
+                "BallotOrder":1,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Democratic"
+             },
+             {
+                "BallotName":"Jen A. Kiggans",
+                "BallotOrder":2,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Republican"
+             },
+             {
+                "BallotName":"Write In",
+                "BallotOrder":2147483647,
+                "EarlyVotes":0,
+                "MailedAbsenteeVotes":0,
+                "PostElectionVotes":0,
+                "PoliticalParty":"Write-In"
+             }
+          ]
+       }
+    ]
+ }
