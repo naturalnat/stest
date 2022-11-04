@@ -68,8 +68,8 @@
              {
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
+                "EarlyVotes":"cheese",
+                "MailedAbsenteeVotes":"turtle",
                 "PostElectionVotes":0,
                 "PoliticalParty":"Write-In"
              }
@@ -98,8 +98,8 @@
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "MailedAbsenteeVotes":"snickers",
+                "PostElectionVotes":"twix",
                 "PoliticalParty":"Write-In"
              }
           ]
@@ -127,8 +127,8 @@
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "MailedAbsenteeVotes":"oj",
+                "PostElectionVotes":"meow",
                 "PoliticalParty":"Write-In"
              }
           ]
@@ -147,9 +147,9 @@
              {
                 "BallotName":"Jen A. Kiggans",
                 "BallotOrder":2,
-                "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "EarlyVotes":"woof",
+                "MailedAbsenteeVotes":"bark",
+                "PostElectionVotes":"teehee",
                 "PoliticalParty":"Republican"
              },
              {
@@ -177,8 +177,8 @@
                 "BallotName":"Jen A. Kiggans",
                 "BallotOrder":2,
                 "EarlyVotes":3,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "MailedAbsenteeVotes":"hello",
+                "PostElectionVotes":"twinkies",
                 "PoliticalParty":"Republican"
              },
              {
