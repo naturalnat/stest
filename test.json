@@ -198,7 +198,7 @@
                 "BallotName":"Elaine G. Luria",
                 "BallotOrder":1,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
+                "MailedAbsenteeVotes": "reeee",
                 "PostElectionVotes":0,
                 "PoliticalParty":"Democratic"
              },
@@ -214,7 +214,7 @@
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
+                "MailedAbsenteeVotes":"awooga",
                 "PostElectionVotes":0,
                 "PoliticalParty":"Write-In"
              }
@@ -388,8 +388,8 @@
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "MailedAbsenteeVotes":"achacha",
+                "PostElectionVotes":"mimimimi",
                 "PoliticalParty":"Write-In"
              }
           ]
@@ -417,7 +417,7 @@
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
+                "MailedAbsenteeVotes":"choochoo",
                 "PostElectionVotes":0,
                 "PoliticalParty":"Write-In"
              }
@@ -475,8 +475,8 @@
                 "BallotName":"Write In",
                 "BallotOrder":2147483647,
                 "EarlyVotes":0,
-                "MailedAbsenteeVotes":0,
-                "PostElectionVotes":0,
+                "MailedAbsenteeVotes":"lalalalala",
+                "PostElectionVotes":"eeeeee",
                 "PoliticalParty":"Write-In"
              }
           ]
